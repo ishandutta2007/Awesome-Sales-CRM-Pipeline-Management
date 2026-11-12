@@ -8,7 +8,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Sales-CRM-Pipeline-Management/pulls)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Sales-CRM-Pipeline-Management)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-CRM-Pipeline-Management?style=social)](https://github.com/ishandutta2007/Awesome-Sales-CRM-Pipeline-Management/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-CRM-Pipeline-Management?style=social)](https://github.com/ishandutta2007/Awesome-Sales-CRM-Pipeline-Management/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -64,81 +64,81 @@ Below is an overview of commercial, cloud-hosted Sales CRM and Pipeline Manageme
 
 Self-hosted, community-driven Sales CRM and Pipeline Management tools. The open-source ecosystem spans **mature enterprise ERP platforms**, **modern developer-friendly CRMs with AI/MCP capabilities**, and **lightweight CLI/Git-native tools**. 💻
 
-Repositories below are ranked in descending order of GitHub star count. ⭐
+Repositories below are ranked in descending order of GitHub Stars_Count. ⭐
 
 ### 🌟 Repositories by Popularity
 
-* **[Twenty (twentyhq/twenty)](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) 🦄
+* **[Twenty (twentyhq/twenty)](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) 🦄
   * **Stack:** TypeScript, NestJS, React, PostgreSQL | **License:** AGPL-3.0
   * **Overview:** The premier open alternative to Salesforce and HubSpot. Modern visual pipeline interface with custom objects, GraphQL APIs, and native AI integration via Model Context Protocol (MCP) allowing autonomous agents to query and update deal stages.
   * **Ideal For:** High-velocity engineering teams and modern SaaS organizations seeking an extensible, AI-native CRM without proprietary lock-in.
 
-* **[Odoo CRM (odoo/odoo)](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🌐
+* **[Odoo CRM (odoo/odoo)](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🌐
   * **Stack:** Python, OWL JavaScript, PostgreSQL | **License:** LGPL-3.0
   * **Overview:** Enterprise-grade pipeline management embedded within the world's most widely adopted open-source ERP suite. Provides drag-and-drop opportunity stages, lead enrichment, quotation generation, and automated follow-ups.
   * **Ideal For:** Mid-market and enterprise organizations requiring CRM natively coupled with accounting, inventory, supply chain, and e-commerce.
 
-* **[Krayin CRM (krayin/laravel-crm)](https://github.com/krayin/laravel-crm)** [![GitHub stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers) ⚡
+* **[Krayin CRM (krayin/laravel-crm)](https://github.com/krayin/laravel-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers) ⚡
   * **Stack:** PHP, Laravel, Vue.js, MySQL | **License:** MIT
   * **Overview:** High-performance, modular open-source CRM built on the Laravel framework. Features intuitive Kanban deal pipelines, custom lead attributes, multi-channel communication, and role-based access control.
   * **Ideal For:** Laravel developers and SMBs wanting a completely free, MIT-licensed, fast, and customizable CRM foundation.
 
-* **[Comp AI CRM (trycompai/crm)](https://github.com/trycompai/crm)** [![GitHub stars](https://img.shields.io/github/stars/trycompai/crm?style=social&color=white)](https://github.com/trycompai/crm/stargazers) 🤖
+* **[Comp AI CRM (trycompai/crm)](https://github.com/trycompai/crm)** [![GitHub_Stars](https://img.shields.io/github/stars/trycompai/crm?style=social&color=white)](https://github.com/trycompai/crm/stargazers) 🤖
   * **Stack:** TypeScript, Next.js, PostgreSQL | **License:** Open Source
   * **Overview:** Agentic-first open-source CRM engineered specifically for autonomous AI agents and modern sales reps to collaborate on lead triage, qualification, and meeting workflows.
   * **Ideal For:** AI startups and forward-thinking revenue teams pioneering autonomous agent-assisted sales cycles.
 
-* **[IDURAR ERP/CRM (idurar/idurar-erp-crm)](https://github.com/idurar/idurar-erp-crm)** [![GitHub stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social&color=white)](https://github.com/idurar/idurar-erp-crm/stargazers) 📦
+* **[IDURAR ERP/CRM (idurar/idurar-erp-crm)](https://github.com/idurar/idurar-erp-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social&color=white)](https://github.com/idurar/idurar-erp-crm/stargazers) 📦
   * **Stack:** Node.js, Express, React, Redux, MongoDB | **License:** MIT
   * **Overview:** Clean, full-stack JavaScript CRM and invoicing platform with customer tracking, quotation generation, pipeline management, payment logging, and role-based permissions.
   * **Ideal For:** Full-stack JavaScript/MERN developers wanting a turnkey sales management and invoicing dashboard.
 
-* **[Dolibarr ERP CRM (Dolibarr/dolibarr)](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) 🐬
+* **[Dolibarr ERP CRM (Dolibarr/dolibarr)](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) 🐬
   * **Stack:** PHP, MySQL/PostgreSQL | **License:** GPL-3.0
   * **Overview:** Mature, highly modular CRM and enterprise management system with lead management, commercial proposals, sales orders, contracts, and point-of-sale functionality.
   * **Ideal For:** Freelancers, small businesses, and non-profits seeking an all-in-one business management engine with zero software fees.
 
-* **[SuiteCRM (SuiteCRM/SuiteCRM)](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers) 🏢
+* **[SuiteCRM (SuiteCRM/SuiteCRM)](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers) 🏢
   * **Stack:** PHP, Symfony, Angular, MariaDB/MySQL | **License:** AGPL-3.0
   * **Overview:** The open-source enterprise standard successor to SugarCRM CE. Full sales-force automation, quote management, customer segmentation, workflow builders, and complex corporate reporting.
   * **Ideal For:** Large enterprises seeking full control over mission-critical CRM infrastructure with strict compliance requirements.
 
-* **[Frappe CRM (frappe/crm)](https://github.com/frappe/crm)** [![GitHub stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers) ☕
+* **[Frappe CRM (frappe/crm)](https://github.com/frappe/crm)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers) ☕
   * **Stack:** Python, Frappe Framework, Vue.js | **License:** GPL-3.0
   * **Overview:** A sleek, modern CRM built on the resilient Frappe Framework (creators of ERPNext). Unifies lead tracking, deal pipelines, integrated telephony, WhatsApp messaging, and collaborative deal notes.
   * **Ideal For:** Organizations operating within or exploring the Frappe / ERPNext ecosystem seeking a polished sales frontend.
 
-* **[Fat Free CRM (fatfreecrm/fat_free_crm)](https://github.com/fatfreecrm/fat_free_crm)** [![GitHub stars](https://img.shields.io/github/stars/fatfreecrm/fat_free_crm?style=social&color=white)](https://github.com/fatfreecrm/fat_free_crm/stargazers) 💎
+* **[Fat Free CRM (fatfreecrm/fat_free_crm)](https://github.com/fatfreecrm/fat_free_crm)** [![GitHub_Stars](https://img.shields.io/github/stars/fatfreecrm/fat_free_crm?style=social&color=white)](https://github.com/fatfreecrm/fat_free_crm/stargazers) 💎
   * **Stack:** Ruby on Rails, PostgreSQL/MySQL | **License:** MIT
   * **Overview:** Classic, elegantly designed Ruby on Rails CRM. Features contact management, visual pipeline tracking, opportunity campaigns, and an active developer plugin architecture.
   * **Ideal For:** Ruby on Rails development shops wanting a clean, hackable, and lightweight CRM codebase.
 
-* **[EspoCRM (espocrm/espocrm)](https://github.com/espocrm/espocrm)** [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) 🛠️
+* **[EspoCRM (espocrm/espocrm)](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) 🛠️
   * **Stack:** PHP, Backbone.js, MySQL/PostgreSQL | **License:** AGPL-3.0
   * **Overview:** Extremely mature, single-page application CRM offering codeless Entity Management, dynamic layouts, automated workflows, email tracking, and calendar synchronization.
   * **Ideal For:** Businesses that need deep administrative customization and complex data relationships without writing code.
 
-* **[BottleCRM / Django-CRM (Django-CRM/Django-CRM)](https://github.com/Django-CRM/Django-CRM)** [![GitHub stars](https://img.shields.io/github/stars/Django-CRM/Django-CRM?style=social&color=white)](https://github.com/Django-CRM/Django-CRM/stargazers) 🐍
+* **[BottleCRM / Django-CRM (Django-CRM/Django-CRM)](https://github.com/Django-CRM/Django-CRM)** [![GitHub_Stars](https://img.shields.io/github/stars/Django-CRM/Django-CRM?style=social&color=white)](https://github.com/Django-CRM/Django-CRM/stargazers) 🐍
   * **Stack:** Python, Django, PostgreSQL/SQLite | **License:** MIT
   * **Overview:** Modular open-source CRM built in Python & Django with sales pipeline boards, customer tickets, invoice tracking, and RESTful API endpoints.
   * **Ideal For:** Python/Django engineers building custom internal portals or SaaS CRM backends.
 
-* **[OpenCRM (clawnify/OpenCRM)](https://github.com/clawnify/OpenCRM)** [![GitHub stars](https://img.shields.io/github/stars/clawnify/OpenCRM?style=social&color=white)](https://github.com/clawnify/OpenCRM/stargazers) 🐾
+* **[OpenCRM (clawnify/OpenCRM)](https://github.com/clawnify/OpenCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/clawnify/OpenCRM?style=social&color=white)](https://github.com/clawnify/OpenCRM/stargazers) 🐾
   * **Stack:** SQLite, REST API, Node.js | **License:** MIT
   * **Overview:** A minimal, lightweight HubSpot alternative engineered for SaaS startups. Provides contact attributes, deal relations, and a clear REST API.
   * **Ideal For:** Micro-SaaS founders and developers needing a compact, headless CRM datastore.
 
-* **[RealTimeX CRM (therealtimex/realtimex)](https://github.com/therealtimex/realtimex)** [![GitHub stars](https://img.shields.io/github/stars/therealtimex/realtimex?style=social&color=white)](https://github.com/therealtimex/realtimex/stargazers) ⚡
+* **[RealTimeX CRM (therealtimex/realtimex)](https://github.com/therealtimex/realtimex)** [![GitHub_Stars](https://img.shields.io/github/stars/therealtimex/realtimex?style=social&color=white)](https://github.com/therealtimex/realtimex/stargazers) ⚡
   * **Stack:** React, TypeScript, Supabase | **License:** MIT
   * **Overview:** Modern CRM architecture with "Bring Your Own Database" via Supabase, Kanban pipeline stages, automated email CC ingestion, and full OAuth support.
   * **Ideal For:** Developers who want a customizable React frontend hooked up directly to a Postgres / Supabase database.
 
-* **[Hermit CRM (Hermit-CRM/hermit-crm)](https://github.com/Hermit-CRM/hermit-crm)** [![GitHub stars](https://img.shields.io/github/stars/Hermit-CRM/hermit-crm?style=social&color=white)](https://github.com/Hermit-CRM/hermit-crm/stargazers) 🐚
+* **[Hermit CRM (Hermit-CRM/hermit-crm)](https://github.com/Hermit-CRM/hermit-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/Hermit-CRM/hermit-crm?style=social&color=white)](https://github.com/Hermit-CRM/hermit-crm/stargazers) 🐚
   * **Stack:** Python, Markdown, Git | **License:** Open Source
   * **Overview:** A Git-native, local-first CRM where every company, contact, and deal interaction lives as a plaintext Markdown file. Features built-in MCP server support for local AI copilots.
   * **Ideal For:** Technical solo founders, hackers, and developers who prefer Markdown notes and Git versioning over traditional databases.
 
-* **[amagi-crm (amagilabs/amagi-crm)](https://github.com/amagilabs/amagi-crm)** [![GitHub stars](https://img.shields.io/github/stars/amagilabs/amagi-crm?style=social&color=white)](https://github.com/amagilabs/amagi-crm/stargazers) 📟
+* **[amagi-crm (amagilabs/amagi-crm)](https://github.com/amagilabs/amagi-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/amagilabs/amagi-crm?style=social&color=white)](https://github.com/amagilabs/amagi-crm/stargazers) 📟
   * **Stack:** Python, SQLite/PostgreSQL | **License:** Open Source
   * **Overview:** Terminal/CLI-first sales CRM equipped with a pipeline board, stage totals, contact deduplication, and a cryptographic hash verification audit trail.
   * **Ideal For:** Command-line power users seeking immediate CRM operations from their terminal with built-in auditability.
